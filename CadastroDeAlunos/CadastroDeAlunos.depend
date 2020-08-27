@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1336225302 source:c:\documents and settings\administrador\desktop\área de trabalho\ciências exatas ufjf\projetos\cadastrodealunos\main.c
+	<stdio.h>
+	<stdlib.h>
+

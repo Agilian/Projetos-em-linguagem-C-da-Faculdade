@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1336218196 source:c:\documents and settings\administrador\desktop\área de trabalho\ciências exatas ufjf\projetos\bd\bd.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"bd.h"
+
+1336135875 c:\documents and settings\administrador\desktop\área de trabalho\ciências exatas ufjf\projetos\bd\bd.h
+
